@@ -33,6 +33,8 @@ Most of my work lives in private client repositories, so the open source below i
 
 ## Open source
 
+**[Tidepool](https://mohamedembarak.github.io/Tidepool/)** — Dive into a living 3D ocean and uncover nine hidden treasures.
+
 **[seoaudit](https://github.com/MohamedEmbarak/seoaudit)** — SEO analysis in one Python
 command. It reports the **template, not the URLs**, so findings roll up to the file you
 would actually edit, and it emits a remediation plan a coding agent can execute — each fix
